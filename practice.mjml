@@ -1,0 +1,23 @@
+<mjml>
+  <mj-head>
+    <mj-title>first go</mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <mj-section>
+        <mj-column
+          background-color="#eee"
+        >
+          <mj-text>
+            Hi world
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
